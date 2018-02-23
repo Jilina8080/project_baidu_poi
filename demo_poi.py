@@ -5,6 +5,12 @@ import pandas as pd
 import time
 ty = sys.getfilesystemencoding()  # 这个可以获取文件系统的编码形式
 
+# test2018.2.23
+
+# test2
+
+# test3
+
 
 lat_1 = 39.449291
 lon_1 = 115.430651
